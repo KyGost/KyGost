@@ -6,3 +6,5 @@
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=KyGost&theme=nord&hide_border=true&date_format=Y-m-d)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=KyGost&show_icons=true&theme=nord&hide_border=true&count_private=true&hide_rank=true&hide_title=true)
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
