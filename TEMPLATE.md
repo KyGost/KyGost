@@ -9,4 +9,4 @@
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=KyGost&show_icons=true&theme=nord&hide_border=true&count_private=true&hide_rank=true&hide_title=true)
 
 ## Recent Actions
-<!--GITHUB_ACTIVITY:{"rows": 10}-->
+<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true}-->
