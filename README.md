@@ -16,6 +16,8 @@
   
 ## Recent Actions
 ```
+❗️ Closed issue #60 in CafeteriaGuild/Art-of-Alchemy
+🗣 Commented on #60 in CafeteriaGuild/Art-of-Alchemy
 🗣 Commented on #60 in CafeteriaGuild/Art-of-Alchemy
 ⬆️ Pushed 1 commit to KyGost/github-stats
 ❗️ Opened issue #60 in CafeteriaGuild/Art-of-Alchemy
@@ -24,6 +26,4 @@
 🗣 Commented on #1136 in thunderbird-conversations/thunderbird-conversations
 ❗️ Opened issue #1718 in thunderbird-conversations/thunderbird-conversations
 ❗️ Opened issue #2 in KyGost/KyGost
-❗️ Opened issue #1 in KyGost/KyGost
-⬆️ Pushed 1 commit to KyGost/KyGost
 ```
