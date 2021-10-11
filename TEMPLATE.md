@@ -10,6 +10,8 @@
 	<img src="https://github.com/KyGost/github-stats/blob/master/generated/overview.svg"/>
 	<br/>
 	<img src="https://github.com/KyGost/github-stats/blob/master/generated/languages.svg"/>
+	<br/>
+	<sup>This has inaccuracies (where's rust?!)-- TOFIX</sup>
 </p>
   
 ## Recent Actions
