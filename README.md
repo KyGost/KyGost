@@ -10,18 +10,20 @@
 	<img src="https://github.com/KyGost/github-stats/blob/master/generated/overview.svg"/>
 	<br/>
 	<img src="https://github.com/KyGost/github-stats/blob/master/generated/languages.svg"/>
+	<br/>
+	<sup>This has inaccuracies (where's rust?!)-- TOFIX</sup>
 </p>
   
 ## Recent Actions
 ```
 ⬆️ Pushed 1 commit to KyGost/KyGost
-🗣 Commented on #1136 in thunderbird-conversations/thunderbird-conversations
-⬆️ Pushed 1 commit to KyGost/KyGost
-⬆️ Pushed 1 commit to KyGost/KyGost
-⬆️ Pushed 1 commit to KyGost/KyGost
-⬆️ Pushed 1 commit to KyGost/KyGost
-⬆️ Pushed 1 commit to KyGost/KyGost
-⬆️ Pushed 1 commit to KyGost/KyGost
-⬆️ Pushed 1 commit to KyGost/KyGost
-⬆️ Pushed 1 commit to KyGost/KyGost
+⬆️ Pushed 1 commit to KyGost/github-stats
+⬆️ Pushed 1 commit to KyGost/github-stats
+⬆️ Pushed 1 commit to KyGost/github-stats
+⬆️ Pushed 1 commit to KyGost/github-stats
+⬆️ Pushed 1 commit to KyGost/github-stats
+⬆️ Pushed 1 commit to KyGost/github-stats
+⬆️ Pushed 1 commit to KyGost/github-stats
+⬆️ Pushed 1 commit to KyGost/github-stats
+⬆️ Pushed 1 commit to KyGost/github-stats
 ```
