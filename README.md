@@ -6,6 +6,4 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=KyGost&theme=nord&hide_border=true&date_format=Y-m-d"/>
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api?username=KyGost&show_icons=true&theme=nord&hide_border=true&count_private=true&hide_rank=true&hide_title=true"/>
-	<br/>
-	<sup>This has inaccuracies (where's rust?!)-- TOFIX</sup>
 </p>
