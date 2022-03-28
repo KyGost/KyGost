@@ -7,23 +7,5 @@
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api?username=KyGost&show_icons=true&theme=nord&hide_border=true&count_private=true&hide_rank=true&hide_title=true"/>
 	<br/>
-	<img src="https://github.com/KyGost/github-stats/blob/master/generated/overview.svg"/>
-	<br/>
-	<img src="https://github.com/KyGost/github-stats/blob/master/generated/languages.svg"/>
-	<br/>
 	<sup>This has inaccuracies (where's rust?!)-- TOFIX</sup>
 </p>
-  
-## Recent Actions
-```
-⬆️ Pushed 1 commit to KyGost/KySpace
-❗️ Opened issue #1 in KyGost/KySpace
-⬆️ Pushed 1 commit to KyGost/KySpace
-⬆️ Pushed 1 commit to KyGost/KySpace
-⬆️ Pushed 1 commit to KyGost/KySpace
-🗣 Commented on #26 in lcnr/crow
-⬆️ Pushed 1 commit to KyGost/KySpace
-⬆️ Pushed 1 commit to KyGost/KySpace
-⬆️ Pushed 1 commit to KyGost/KySpace
-⬆️ Pushed 1 commit to KyGost/KySpace
-```
